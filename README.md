@@ -3,6 +3,7 @@ I attempt to answer this question using data from about over 50,000 people.
 
 **What did you do?**
 
+I proved that elderly people who have a higher net worth of cars people tend to be happier. I also found a significant small increases in happiness as the value of people's vehicles(ex: 20-30K, 30-40K) increase. In other words, there is a consistent increase in happiness when vehicle net worth is in higher ranges. Having an expensive car does not make you happy - this is not the finding of this analysis. The findings are people who have a higher net worth of vehicles tend to be happier. This is a reasonably intuitive finding as people who are wealthier tend to be happier, so this analysis really furthers this idea by examining specifically the relationship between over 50 thousands people's net worth of vehicles and their happiness.
 Please read through the code comments, I try to make them straightforward as possible, so you can see what I did step by step. 
 
 **Statistic techniques deployed**
