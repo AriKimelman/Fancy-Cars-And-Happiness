@@ -1,5 +1,5 @@
 # "Wow, that's an expensive car, I wonder if that really makes him happy."
-I attempt to answer this question using data from about over 50,000 people. 
+I answer this question using data from about over 50,000 people. 
 
 **What did you do?**
 
